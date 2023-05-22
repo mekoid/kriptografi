@@ -16,8 +16,11 @@ $ cd [encoder/dencoder]
 $ python namafile.py
 ```
 ## BAHAN
-jangan lupa install python
+jangan lupa install python - turunan debian
 ```bash
 $ sudo apt install python 
+```
+instalasi termux
+```bash
 $ pkg install python
 ```
