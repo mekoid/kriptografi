@@ -18,9 +18,9 @@ $ python namafile.py
 ## BAHAN
 jangan lupa install python - turunan debian
 ```bash
-$ sudo apt install python 
+$ sudo apt install python -y
 ```
 instalasi termux
 ```bash
-$ pkg install python
+$ pkg install python -y
 ```
